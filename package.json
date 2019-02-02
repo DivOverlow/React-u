@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react-u",
   "version": "1.0.0",
   "description": "react project",
   "main": "index.js",
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/DivOverlow/React-u/issues"
   },
-  "homepage": "https://github.com/DivOverlow/React-u#readme"
+  "homepage": "https://github.com/DivOverlow/React-u#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
 }
