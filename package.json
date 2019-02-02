@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivOverlow/React-u.git"
+  },
+  "keywords": [
+    "react",
+    "university"
+  ],
+  "author": "DivOverlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivOverlow/React-u/issues"
+  },
+  "homepage": "https://github.com/DivOverlow/React-u#readme"
+}
