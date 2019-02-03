@@ -1,7 +1,7 @@
 {
   "name": "react-u",
   "version": "1.0.0",
-  "description": "react project",
+  "description": "React University",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,20 +11,13 @@
     "url": "git+https://github.com/DivOverlow/React-u.git"
   },
   "keywords": [
-    "react",
-    "university"
+    "ract",
+    "uiversity"
   ],
-  "author": "DivOverlow",
+  "author": "Div Overlow",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DivOverlow/React-u/issues"
   },
-  "homepage": "https://github.com/DivOverlow/React-u#readme",
-  "devDependencies": {
-    "webpack": "^4.29.0"
-  },
-  "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
-  }
+  "homepage": "https://github.com/DivOverlow/React-u#readme"
 }
