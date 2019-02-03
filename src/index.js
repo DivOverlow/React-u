@@ -1,5 +1,5 @@
-var App = function () {
+const App = function() {
     console.log('App: init');
 };
 
-var app = new App();
+const app = new App();
